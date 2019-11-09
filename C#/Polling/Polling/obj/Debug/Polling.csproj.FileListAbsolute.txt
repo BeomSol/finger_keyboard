@@ -1,0 +1,63 @@
+C:\Users\user\Desktop\Polling\Polling\bin\Debug\Polling.exe.config
+C:\Users\user\Desktop\Polling\Polling\bin\Debug\Polling.exe
+C:\Users\user\Desktop\Polling\Polling\bin\Debug\Polling.pdb
+C:\Users\user\Desktop\Polling\Polling\obj\Debug\Polling.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Polling\Polling\obj\Debug\Polling.Form1.resources
+C:\Users\user\Desktop\Polling\Polling\obj\Debug\Polling.Properties.Resources.resources
+C:\Users\user\Desktop\Polling\Polling\obj\Debug\Polling.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Polling\Polling\obj\Debug\Polling.exe
+C:\Users\user\Desktop\Polling\Polling\obj\Debug\Polling.pdb
+C:\Users\KSH\Desktop\Polling_Form만\Polling\bin\Debug\Polling.exe.config
+C:\Users\KSH\Desktop\Polling_Form만\Polling\obj\Debug\Polling.exe
+C:\Users\KSH\Desktop\Polling_Form만\Polling\obj\Debug\Polling.pdb
+C:\Users\KSH\Desktop\Polling_Form만\Polling\obj\Debug\Polling.csprojResolveAssemblyReference.cache
+C:\Users\KSH\Desktop\Polling_Form만\Polling\obj\Debug\Polling.Form1.resources
+C:\Users\KSH\Desktop\Polling_Form만\Polling\obj\Debug\Polling.Properties.Resources.resources
+C:\Users\KSH\Desktop\Polling_Form만\Polling\obj\Debug\Polling.csproj.GenerateResource.Cache
+C:\Users\KSH\Desktop\Polling_Form만\Polling\bin\Debug\Polling.exe
+C:\Users\KSH\Desktop\Polling_Form만\Polling\bin\Debug\Polling.pdb
+C:\Users\User\Downloads\Polling_Form만\Polling\bin\Debug\Polling.exe.config
+C:\Users\User\Downloads\Polling_Form만\Polling\obj\Debug\Polling.exe
+C:\Users\User\Downloads\Polling_Form만\Polling\obj\Debug\Polling.pdb
+C:\Users\User\Downloads\Polling_Form만\Polling\obj\Debug\Polling.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Polling_Form만\Polling\obj\Debug\Polling.Form1.resources
+C:\Users\User\Downloads\Polling_Form만\Polling\obj\Debug\Polling.Properties.Resources.resources
+C:\Users\User\Downloads\Polling_Form만\Polling\obj\Debug\Polling.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Polling_Form만\Polling\bin\Debug\Polling.exe
+C:\Users\User\Downloads\Polling_Form만\Polling\bin\Debug\Polling.pdb
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\bin\Debug\Polling.exe.config
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\obj\Debug\Polling.exe
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\obj\Debug\Polling.pdb
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\bin\Debug\Polling.exe
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\bin\Debug\Polling.pdb
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\obj\Debug\Polling.csprojResolveAssemblyReference.cache
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\obj\Debug\Polling.Form1.resources
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\obj\Debug\Polling.Properties.Resources.resources
+F:\Seoultech\PC기반제어 프로그래밍\과제\180509\C샵코드\Polling\Polling\obj\Debug\Polling.csproj.GenerateResource.Cache
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\bin\Debug\Polling.exe.config
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\obj\Debug\Polling.exe
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\obj\Debug\Polling.pdb
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\obj\Debug\Polling.csprojResolveAssemblyReference.cache
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\obj\Debug\Polling.Form1.resources
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\obj\Debug\Polling.Properties.Resources.resources
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\obj\Debug\Polling.csproj.GenerateResource.Cache
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\bin\Debug\Polling.exe
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\기존코드\C샵코드\Polling\Polling\bin\Debug\Polling.pdb
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\bin\Debug\Polling.exe.config
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\obj\Debug\Polling.exe
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\obj\Debug\Polling.pdb
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\bin\Debug\Polling.exe
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\bin\Debug\Polling.pdb
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\obj\Debug\Polling.csprojResolveAssemblyReference.cache
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\obj\Debug\Polling.Form1.resources
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\obj\Debug\Polling.Properties.Resources.resources
+F:\Seoultech\PC기반제어 프로그래밍\텀 프로젝트\LCD\Polling\Polling\obj\Debug\Polling.csproj.GenerateResource.Cache
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\bin\Debug\Polling.exe.config
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\obj\Debug\Polling.exe
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\obj\Debug\Polling.pdb
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\bin\Debug\Polling.exe
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\bin\Debug\Polling.pdb
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\obj\Debug\Polling.csprojResolveAssemblyReference.cache
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\obj\Debug\Polling.Form1.resources
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\obj\Debug\Polling.Properties.Resources.resources
+F:\Seoultech\Lecture\Practical Exercise\PC기반제어 프로그래밍\텀 프로젝트\C#코드\Polling\Polling\obj\Debug\Polling.csproj.GenerateResource.Cache
